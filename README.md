@@ -1,23 +1,20 @@
 <h1 align="center">Hey, I'm Surya 👋</h1>
 
 <p align="center">
-  Systems Design Engineering @ University of Waterloo<br/>
-  Building cloud AI agents and full-stack software
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jvnssurya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:s2jammal@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  MTS @ <b>8090 Solutions</b> | 
+  Systems Design Engineering @ <b>University of Waterloo</b><br/>
+  <a href="https://www.linkedin.com/in/jvnssurya/">LinkedIn</a> · <a href="mailto:s2jammal@uwaterloo.ca">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About me
+### 💼 Previous work
 
-- 🎓 Currently doing Bachelor's in **Systems Design Engineering** at the **University of Waterloo**,
-- 🤖 **Member of Technical Staff at 8090 Solutions**, building cloud AI agents for Software Factory
-- 🧠 Interested in **AI, Software Engineering and Product**
-- 🛠️ Past work: multi-agent systems, urban planning SaaS, ETL pipelines and an animal shelter platform
+- **8090 Solutions** | *Software Engineering Intern* (Jan – Apr 2026)
+- **Siteability** | *Founding Software Engineer Intern* (May – Aug 2025)
+- **UW Blueprint** | *Project Lead* (May 2025 – Aug 2026)
+- **CIBC** | *Software Developer* (Sep – Dec 2024)
+- **Ontario Ministry of Transportation** | *Junior Technical Analyst* (Jan – Apr 2024)
 
 ### 🧰 Tech stack
 
@@ -59,12 +56,3 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 💼 Experience
-
-- **8090 Solutions** | *Member of Technical Staff* (Sep 2026 – Present)
-- **8090 Solutions** | *Software Engineering Intern* (Jan – Apr 2026)
-- **Siteability** | *Founding Software Engineer Intern* (May – Aug 2025)
-- **UW Blueprint** | *Project Lead* (May 2025 – Aug 2026)
-- **CIBC** | *Software Developer* (Sep – Dec 2024)
-- **Ontario Ministry of Transportation** | *Junior Technical Analyst* (Jan – Apr 2024)
